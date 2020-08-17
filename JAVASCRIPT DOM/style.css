@@ -1,0 +1,56 @@
+* {
+  font-family: Arial Narrow, Arial, sans-serif;
+  text-align: center;
+}
+#head {
+  font-weight: bold;
+}
+li a {
+  text-decoration: none;
+}
+#nav ul {
+  list-style-type: none;
+}
+ul li {
+  display: inline-block;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  color: black;
+}
+li:hover {
+  background: black;
+  color: white;
+  cursor: pointer;
+}
+#search input[type="text"] {
+  width: 500px;
+  height: 25px;
+}
+#search {
+  margin-bottom: 20px;
+}
+#cake img {
+  border-radius: 50%;
+  height: 200px;
+  width: 230px;
+  padding: 10px;
+}
+#cupcake img {
+  border-radius: 50%;
+  height: 200px;
+  width: 230px;
+  padding: 10px;
+}
+#sweet img {
+  border-radius: 50%;
+  height: 200px;
+  width: 230px;
+  padding: 10px;
+}
+#dn img {
+  border-radius: 50%;
+  height: 200px;
+  width: 230px;
+  padding: 10px;
+}
