@@ -1,0 +1,38 @@
+.buttn {
+  padding: 18px;
+  border-radius: 18px;
+  margin-top: 20px;
+  font-size: large;
+}
+.block {
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 10px;
+}
+h1 {
+  font-family: "Russo One", sans-serif;
+}
+h3 {
+  font-family: "Acme", sans-serif;
+
+  font-family: "Russo One", sans-serif;
+}
+input[type="text"] {
+  height: 50px;
+}
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 30px;
+}
+li a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 17px;
+}
+li a:hover {
+  border: 1px solid black;
+}
